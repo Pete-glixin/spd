@@ -7,8 +7,8 @@
 ## ⚡ Quickstart
 
 ### 1. Installation
-Download the compiled `spd.exe` executable from the latest [Releases](../../releases) page or clone this repository:
+Download the compiled `spd.exe` executable from the latest [Releases](https://github.com/Pete-glixin/spd/releases) page or clone this repository:
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/spd.git](https://github.com/YOUR-USERNAME/spd.git)
+git clone [https://github.com/Pete-glixin/spd.git](https://github.com/Pete-glixin/spd.git)
 cd spd
