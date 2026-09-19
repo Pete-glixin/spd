@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+main.build/
+main.dist/
+main.onefile-build/
+dist_package/
+spd_wallet.db
+audit_error.log
+.env
